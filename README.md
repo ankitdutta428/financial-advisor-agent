@@ -27,7 +27,7 @@ Ensure you have:
 Clone the repository and install dependencies:  
 ```bash
 git clone https://github.com/your-repo/financial-advisor-agent.git  
-cd financial-advisor-ai  
+cd financial-advisor-agent
 pip install -r requirements.txt
 ```
 
