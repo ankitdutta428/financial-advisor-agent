@@ -20,7 +20,7 @@ The **Financial Advisor AI Agent** is a lightweight, high-performance AI-powered
 ## Installation  
 ### Prerequisites  
 Ensure you have:  
-- Python 3.8+  
+- Python 3.10+  
 - `pip` installed  
 
 ### Setup  
