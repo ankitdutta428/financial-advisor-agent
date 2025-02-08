@@ -30,3 +30,6 @@ git clone https://github.com/your-repo/financial-advisor-agent.git
 cd financial-advisor-ai  
 pip install -r requirements.txt
 ```
+
+## License
+The License for the project can be seen at the LICENSE file in the repository. Additonally, it can be found in the following [Link](https://www.mit.edu/~amini/LICENSE.md)
